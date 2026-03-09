@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋 I'm Angelica</h1>
 <p align="left">
 </p>
+Data Analyst with experience in time-series analysis, statistical modeling, and building data pipelines.
 
 ## Skills
 Python (pandas, NumPy, scikit-learn) · SQL · R · JavaScript · Go · Power BI · Tableau
+
 
 
 
